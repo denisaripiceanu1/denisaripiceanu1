@@ -10,3 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denisaripiceanu1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## My lastest university projects
+- [Tomates sales application](https://github.com/denisaripiceanu1/Semestre2-SAE-Developpement_application_Java.git) - Java - Window Builder
