@@ -11,5 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denisaripiceanu1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## My lastest university projects
+- [Managing a medical practice](https://github.com/denisaripiceanu1/Semestre3-GestionCabinetMedical-PHP.git) -> PHP - HTML/CSS - JS
 - [Tomates sales application](https://github.com/denisaripiceanu1/Semestre2-SAE-Developpement_application_Java.git) -> Java - WindowBuilder
 - [IP address analysis](https://github.com/denisaripiceanu1/Semestre2-Mini_projet-Communication_et_fonctionnement_bas_niveau.git) -> C
