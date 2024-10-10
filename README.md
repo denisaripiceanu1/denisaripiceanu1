@@ -2,7 +2,7 @@
 
 🌍 I'm based in Toulouse <br>
 ✉️ You can reach me at ripiceanudenisa@yahoo.com <br>
-🚀 I'm currently a second year student in Bachelor of Science in Computer Science, specialized in Database at Paul Sabatier University, Toulouse, France
+🚀 As a first-year engineering student in Digital Sciences - IT and Networks at INP-ENSEEIHT and an apprentice Data Analyst at Airbus, I'm passionate about technological innovation and solving complex problems.
 
 
 ## 💻 Tech Stack
