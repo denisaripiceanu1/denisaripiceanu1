@@ -2,7 +2,7 @@
 
 🌍 I'm based in Toulouse <br>
 ✉️ You can reach me at ripiceanudenisa@yahoo.com <br>
-🚀 As a first-year engineering student in Digital Sciences - IT and Networks at INP-ENSEEIHT and an apprentice Data Analyst at Airbus, I'm passionate about technological innovation and solving complex problems.
+🚀 As a first-year engineering student in Digital Sciences - IT and Networks at INP-ENSEEIHT and an apprentice Data Analyst at Airbus, I'm passionate about technological innovation and solving complex problems. Before joining this course, I did a DUT in IT and here you can see some of the projects I've worked on.
 
 
 ## 💻 Tech Stack
